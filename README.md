@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-  <img src="Natsuki-007/img/image.png" alt="Jannie">
+  <img src="Natsuki-007/img/image.png" alt="Jannie" width="150" height="150">
 </p>
 <pre>
   ░▒▓███████▓▒░ ░▒▓██████▓▒░▒▓████████▓▒░▒▓███████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░
